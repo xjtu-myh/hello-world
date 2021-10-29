@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a39fe5ce-c8c8-4f2a-85dd-0effe326ab48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Lua Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/torch" />
+  </component>
+  <component name="ProjectId" id="1j0Fiz9CJ1tAIZQl0xCNi6WsPid" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MST-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MST-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="聚类比较" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/聚类比较.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Windows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Windows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo-helloworld-streamlit-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo-helloworld-streamlit-master/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo-helloworld-streamlit-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo-helloworld-streamlit-master/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bert改进版本" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bert改进版本/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="passage_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/bert改进版本" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/bert改进版本/passage_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="$USER_HOME$/lua-5.1.4/etc/all.c" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello world.lua (1)" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="$PROJECT_DIR$/../lua-5.3.5/src/lua" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="true" />
+      <option name="SCRIPT_NAME" value="hello world.lua" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Windows" />
+      <item itemvalue="Python.聚类比较" />
+      <item itemvalue="Python.hello" />
+      <item itemvalue="Python.helloworld" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.passage_process" />
+      <item itemvalue="Lua Script.hello world.lua (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.helloworld" />
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.passage_process" />
+        <item itemvalue="Python.Windows" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a39fe5ce-c8c8-4f2a-85dd-0effe326ab48" name="Default Changelist" comment="" />
+      <created>1602933232636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602933232636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="103" key="#Notifications" timestamp="1632648911664">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="320" y="103" key="#Notifications/0.23.1440.826@0.23.1440.826" timestamp="1632648911664" />
+    <state x="507" y="199" key="FileChooserDialogImpl" timestamp="1635401965134">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="507" y="199" key="FileChooserDialogImpl/0.23.1440.825@0.23.1440.825" timestamp="1635401965134" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom" timestamp="1635412115414">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1635402231706" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1635412115414" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1635404571641" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1635401421899" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1635401627646" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center" timestamp="1635412115413">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1440" height="190" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1635402231706" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1635412115413" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1635404571641" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1635401421898" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1635401627645" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left" timestamp="1635412115413">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1440" height="190" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1635402231705" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1635412115413" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1635404571640" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1635401421898" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1635401627644" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right" timestamp="1635412115414">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1440" height="190" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1635402231706" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1635412115414" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1635404571641" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1635401421899" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1635401627645" />
+    <state x="221" y="75" key="SettingsEditor" timestamp="1635402160299">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="221" y="75" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1635402160299" />
+    <state x="221" y="75" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1632724912982" />
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1635403243213">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1635401795704" />
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1635403243213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/debug_try.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="a" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

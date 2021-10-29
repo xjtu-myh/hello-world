@@ -1,0 +1,13 @@
+print(1)
+print(2)
+print(3)
+print(4)
+print(5)
+b=100
+print(1)
+print(2)
+a=5
+print(3)
+print(4)
+a=a+3
+print(5)

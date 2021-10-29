@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/torch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/exe/env" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/exe/luajit-rocks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/exe/qtlua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/exe/trepl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/argcheck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/cudnn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/cunn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/cutorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/graph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/lua-cjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/luaffifb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/luafilesystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/moses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/nn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/nngraph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/nnx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/penlight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/extra/threads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/cwrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/dok" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/gnuplot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/image" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/optim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/paths" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/qttorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/sundown" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/torch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/torch/pkg/xlua" vcs="Git" />
+  </component>
+</project>
